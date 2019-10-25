@@ -2,8 +2,16 @@
 
 Java Application to manage elective courses in college.
 -----------------------------------------------------------------------------------------------
-Screenshots:
+Objectives of Project:
 
+To provide efficient registration of courses.
+To provide ease of adding and removing courses.
+To provide ease of administration.
+To provide ease of schedule management.
+To provide security through credentials.  
+
+Screenshots:
+-----------------------------------------------------------------------------------------------
 ![Login](https://drive.google.com/uc?export=view&id=12UKYIr_e1pnmkytsSWv4WP2bjOQzcl-Z)
 ![Logged in](https://drive.google.com/uc?export=view&id=1s9rwXAoohrnrfBzTh9eN73A39I_SgeU_)
 -----------------------------------------------------------------------------------------------
