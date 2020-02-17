@@ -12,16 +12,29 @@ To provide security through credentials.
 
 Screenshots:
 -----------------------------------------------------------------------------------------------
-![Login](https://drive.google.com/uc?export=view&id=12UKYIr_e1pnmkytsSWv4WP2bjOQzcl-Z)
-![Logged in](https://drive.google.com/uc?export=view&id=1s9rwXAoohrnrfBzTh9eN73A39I_SgeU_)
+User Login:
 -----------------------------------------------------------------------------------------------
+![Login](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img1.png)
+User Logged in:
+-----------------------------------------------------------------------------------------------
+![Logged in](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img2.png)
 Student can select courses:
-![Add course](https://drive.google.com/uc?export=view&id=1hEzxDFEXjQYiBAPY2jUA--Tgdy1eTNnv)
-![Add invalid course](https://drive.google.com/uc?export=view&id=1TgyhVaLYvo7TfgwKt3HPLJyVyCNttP-t)
 -----------------------------------------------------------------------------------------------
-![Admin Dashboard](https://drive.google.com/uc?export=view&id=1nwtLfrw0aHnnATTAi1eHJJ7VwQymn6T5)
+![Add course](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img3.png)
+Student alerted if course is already chosen:
 -----------------------------------------------------------------------------------------------
-![Staff Dashboard](https://drive.google.com/uc?export=view&id=1GphW7oM7ifLnpxw-qo36C-mwxBPmBjq1)
-Staff without admin privileges:
-![Staff not admin](https://drive.google.com/uc?export=view&id=1SMM-aERfFn4HUhJQiOcVQ79lqvBfZkW2)
+![Add invalid course](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img4.png)
+Admin can view enrolment, add, remove and update courses:
 -----------------------------------------------------------------------------------------------
+![Admin Dashboard](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img5.png)
+Staff can view enrolment and update courses:
+-----------------------------------------------------------------------------------------------
+![Staff Dashboard](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img6.png)
+Staff without admin privileges cannot modify courses:
+-----------------------------------------------------------------------------------------------
+![Staff not admin](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img8.png)
+Logging in with invalid credentials:
+-----------------------------------------------------------------------------------------------
+![Invalid](https://github.com/Priya-SB/Course-Management-System/blob/master/images/img7.png)
+-----------------------------------------------------------------------------------------------
+
